@@ -1,11 +1,11 @@
 {
   "locals": {
     "url": "http://bradygadomski.com",
-    "name": "Kelly Brady & Pete Gadomski",
-    "description": "We're getting married on September 5th, 2015"
+    "name": "Kelly & Pete",
+    "description": "We're getting married on September 5th, 2015",
+    "owner": "Pete Gadomski"
   },
   "plugins": [
-    "./plugins/paginator.coffee",
     "wintersmith-less"
   ],
   "require": {

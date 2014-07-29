@@ -21,23 +21,20 @@ html(lang="en")
       <![endif]-->
 
   body
-    header.container
-      h1
-        a(href=locals.url)= locals.name
-      p= locals.description
-    .container
-      div.content-wrap
-        block content
-          h2 Welcome to zombocom!
-    footer
-      div.content-wrap
-        block footer
-          section.about
-            !=contents["about.md"].html
-          section.copy
-            p &copy; #{ new Date().getFullYear() } #{ locals.owner } &mdash; powered by&nbsp;
-              a(href="https://github.com/jnordberg/wintersmith") Wintersmith
-              //- please leave the "powered by" if you use the design
+    .container-fluid
+      .row
+        header.col-md-4
+          h1
+            a(href=locals.url)= locals.name
+          p= locals.description
+        
+        content.col-md-8
+          h1.page-title= page.title
+          != page.html
+
+      footer.row
+        section.copy
+          p &copy; #{ new Date().getFullYear() } #{ locals.owner }
     
     script(src=contents.scripts["jquery.min.js"].url)
     script(src=contents.scripts["bootstrap.min.js"].url)
