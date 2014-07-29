@@ -5,7 +5,8 @@
     "description": "We're getting married on September 5th, 2015"
   },
   "plugins": [
-    "./plugins/paginator.coffee"
+    "./plugins/paginator.coffee",
+    "wintersmith-less"
   ],
   "require": {
     "moment": "moment",
