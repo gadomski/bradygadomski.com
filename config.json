@@ -1,9 +1,8 @@
 {
   "locals": {
-    "url": "http://localhost:8080",
-    "name": "The Wintersmith's blog",
-    "owner": "Someone",
-    "description": "Ramblings of an immor(t)al demigod"
+    "url": "http://bradygadomski.com",
+    "name": "Kelly Brady &amp; Pete Gadomski",
+    "description": "We're getting married on September 5th, 2015"
   },
   "plugins": [
     "./plugins/paginator.coffee"
