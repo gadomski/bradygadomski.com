@@ -21,16 +21,39 @@ html(lang="en")
       <![endif]-->
 
   body
-    .container-fluid
+    .container
       .row
-        header.col-md-4
+        sidebar.col-md-4
           h1
             a(href=locals.url)= locals.name
           p= locals.description
+
+          ul.nav(data-spy="affix", data-offset-top="40", data-offset-bottom="200")
+            li
+              a(href="#introduction") Introduction
+            li
+              a(href="#about") About Us
+            li
+              a(href="#proposal") Our Proposal
         
         content.col-md-8
-          h1.page-title= page.title
-          != page.html
+          h1#introduction.page-header Introduction
+          != contents["intro.md"].html
+
+          h1#about.page-header About Us
+          != contents["about.md"].html
+
+          h1#proposal.page-header Our Proposal
+          != contents["proposal.md"].html
+
+          // ceremony and reception
+          // weddingparty
+          // guest information
+          // schedule of events
+          // map of events
+          // things to do in the area
+          // photo album
+          // our registries
 
       footer.row
         section.copy
