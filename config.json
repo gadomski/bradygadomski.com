@@ -2,7 +2,7 @@
   "locals": {
     "url": "http://bradygadomski.com",
     "name": "Kelly & Pete",
-    "description": "We're getting married on September 5th, 2015",
+    "description": "We're getting married on September 5th, 2015 in Trinity County, California",
     "owner": "Pete Gadomski"
   },
   "plugins": [
@@ -19,8 +19,5 @@
   "markdown": {
     "smartLists": true,
     "smartypants": true
-  },
-  "paginator": {
-    "perPage": 3
   }
 }

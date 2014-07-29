@@ -38,7 +38,7 @@ html(lang="en")
         
         content.col-md-8
           h1#introduction.page-header Introduction
-          != contents["intro.md"].html
+          != typogr(contents["intro.md"].html).typogrify()
 
           h1#about.page-header About Us
           != contents["about.md"].html
