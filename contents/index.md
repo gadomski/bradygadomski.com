@@ -19,19 +19,21 @@ The wedding will be at [The Bar 717 Ranch](http://www.bar717.com/) in Trinity Co
 </div>
 </div>
 
-Erat, blandit ut, molestie sed, fringilla non, odio. Nulla porta, tortor non
-suscipit gravida, velit enim aliquam quam, nec condimentum orci augue vel
-magna. Nulla facilisi. Donec ipsum enim, congue in, tempus id, pulvinar
-sagittis, leo. Donec et elit in nunc blandit auctor. Nulla congue urna quis
-lorem. Nam rhoncus pede sed nunc. Etiam vitae quam. Fusce feugiat pede vel
-quam. In et augue.
+We hope that you'll join us for a weekend of fun and community!
+Invitations and more information about the wedding itself will be sent in 2015.
+
+Fusce feugiat pede vel quam. In et augue.
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 Phasellus mollis dictum nulla. Integer vitae neque vitae eros fringilla rutrum.
 Vestibulum in pede adipiscing mi dapibus condimentum. Etiam felis risus,
-condimentum in, malesuada eget, pretium ut, sapien. Suspendisse placerat
-lectus.
+condimentum in, malesuada eget, pretium ut, sapien. Suspendisse placerat lectus
+venenatis lorem. Sed accumsan aliquam enim. Etiam hendrerit, metus eu semper
+rutrum, nisl elit pharetra purus, non interdum nibh enim eget augue. Sed
+mauris. Nam varius odio a sapien. Aenean rutrum dictum sapien. Fusce pharetra
+elementum ligula. Nunc eu mi non augue iaculis facilisis. Morbi interdum. Donec
+nisi arcu, rhoncus ac, vestibulum ut, pellentesque nec, risus. 
 
 
 # About Us
@@ -49,3 +51,10 @@ They got engaged in 2014 on a mountain near Leadville, Colorado.
 </div>
 </div>
 </div>
+
+
+# The Location
+
+The Bar 717 Ranch is located in Trinity County, California, about two hours west of Redding.
+
+<div id="overview-map"></div>

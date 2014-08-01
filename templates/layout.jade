@@ -26,6 +26,7 @@ html(lang="en")
         sidebar.col-md-4
           h1
             a(href=locals.url)= locals.name
+
           p= locals.description
 
           ul.nav(data-spy="affix", data-offset-top="40", data-offset-bottom="200")
@@ -33,6 +34,8 @@ html(lang="en")
               a(href="#the-wedding") The Wedding
             li
               a(href="#about-us") About Us
+            li
+              a(href="#the-location") The Location
         
         content.col-md-8
           != typogr(page.html).typogrify()
@@ -44,3 +47,6 @@ html(lang="en")
     
     script(src=contents.scripts["jquery.min.js"].url)
     script(src=contents.scripts["bootstrap.min.js"].url)
+    script(src=contents.scripts["d3.min.js"].url)
+    script(src=contents.scripts["topojson.js"].url)
+    script(src=contents.scripts["main.coffee"].url)
