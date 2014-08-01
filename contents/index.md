@@ -36,30 +36,16 @@ lectus.
 
 # About Us
 
-Quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant
-sollemnes in futurum.
+Kelly and Pete met in 2010 while working as counselors for Camp Trinity on the Bar 717 Ranch.
+They got engaged in 2014 on a mountain near Leadville, Colorado.
 
-Nunc varius risus quis nulla. Vivamus vel magna. Ut rutrum. Aenean dignissim,
-leo quis faucibus semper, massa est faucibus massa, sit amet pharetra arcu nunc
-et sem. Aliquam tempor. Nam lobortis sem non urna. Pellentesque et urna sit
-amet leo accumsan volutpat. Nam molestie lobortis lorem. Quisque eu nulla.
-Donec id orci in ligula dapibus egestas. Donec sed velit ac lectus mattis
-sagittis.
-
-In hac habitasse platea dictumst. Maecenas in ligula. Duis tincidunt odio
-sollicitudin quam. Nullam non mauris. Phasellus lacinia, velit sit amet
-bibendum euismod, leo diam.
-
-Turpis pede, aliquet ac, mattis sed, consequat in, massa. Cum sociis natoque
-penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam
-egestas posuere metus. Aliquam erat volutpat. Donec non tortor. Vivamus posuere
-nisi mollis dolor. Quisque porttitor nisi ac elit. Nullam tincidunt ligula
-vitae nulla.
-
-Vivamus sit amet risus et ipsum viverra malesuada. Duis luctus. Curabitur
-adipiscing metus et felis. Vestibulum tortor. Pellentesque purus. Donec
-pharetra, massa quis malesuada auctor, tortor ipsum lobortis ipsum, eget
-facilisis ante nisi eget lectus. Sed a est. Aliquam nec felis eu sem euismod
-viverra. Suspendisse felis mi, dictum id, convallis ac, mattis non, nibh.
-Donec.
-
+<div class="row">
+<div class="col-md-6 col-md-offset-3">
+<div class="thumbnail">
+  <img src="engagement.jpg" class="img-responsive">
+  <div class="caption">
+    Engagement
+  </div>
+</div>
+</div>
+</div>

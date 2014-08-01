@@ -30,25 +30,15 @@ html(lang="en")
 
           ul.nav(data-spy="affix", data-offset-top="40", data-offset-bottom="200")
             li
-              a(href="#introduction") The Wedding
+              a(href="#the-wedding") The Wedding
             li
-              a(href="#about") About Us
+              a(href="#about-us") About Us
         
         content.col-md-8
           != typogr(page.html).typogrify()
 
-          // ceremony and reception
-          // weddingparty
-          // guest information
-          // schedule of events
-          // map of events
-          // things to do in the area
-          // photo album
-          // our registries
-
       footer.row
-        section.copy
-          p &copy; #{ new Date().getFullYear() } #{ locals.owner }
+        p &copy; #{ new Date().getFullYear() } #{ locals.owner }
 
     #sunflower
     
