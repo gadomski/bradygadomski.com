@@ -3,6 +3,7 @@
 
 body {
   text-rendering: optimizeLegibility;
+  position: relative;
 }
 
 sidebar {
@@ -14,6 +15,12 @@ sidebar {
 
   .affix {
     top: 40px;
+  }
+
+  .active {
+    font-weight: bold;
+    border-left: 2px solid @brand-primary;
+    margin-left: -2px;
   }
 }
 
