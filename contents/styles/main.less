@@ -5,6 +5,28 @@ body {
   text-rendering: optimizeLegibility;
 }
 
-sidebar .affix {
-  top: 40px;
+sidebar {
+  h1 {
+    a, a:hover {
+      color: @text-color;
+    }
+  }
+
+  .affix {
+    top: 40px;
+  }
+}
+
+content h1 {
+  .page-header;
+}
+
+#sunflower {
+  background-image: url("../sunflower.png");
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 249px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
 }

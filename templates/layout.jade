@@ -30,21 +30,12 @@ html(lang="en")
 
           ul.nav(data-spy="affix", data-offset-top="40", data-offset-bottom="200")
             li
-              a(href="#introduction") Introduction
+              a(href="#introduction") The Wedding
             li
               a(href="#about") About Us
-            li
-              a(href="#proposal") Our Proposal
         
         content.col-md-8
-          h1#introduction.page-header Introduction
-          != typogr(contents["intro.md"].html).typogrify()
-
-          h1#about.page-header About Us
-          != contents["about.md"].html
-
-          h1#proposal.page-header Our Proposal
-          != contents["proposal.md"].html
+          != typogr(page.html).typogrify()
 
           // ceremony and reception
           // weddingparty
@@ -58,6 +49,8 @@ html(lang="en")
       footer.row
         section.copy
           p &copy; #{ new Date().getFullYear() } #{ locals.owner }
+
+    #sunflower
     
     script(src=contents.scripts["jquery.min.js"].url)
     script(src=contents.scripts["bootstrap.min.js"].url)
