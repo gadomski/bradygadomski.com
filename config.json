@@ -6,7 +6,6 @@
         "owner": "Pete Gadomski"
     },
     "plugins": [
-        "wintersmith-data-json",
         "wintersmith-less"
     ],
     "require": {
