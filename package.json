@@ -3,6 +3,8 @@
     "moment": "2.3.x",
     "typogr": "0.5.x",
     "underscore": "1.4.x",
+    "wintersmith-coffee": "^0.2.1",
+    "wintersmith-data-json": "git+ssh://git@github.com:gadomski/wintersmith-data-json.git",
     "wintersmith-less": "^0.2.3"
   },
   "repository": "none"
