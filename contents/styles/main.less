@@ -6,9 +6,37 @@ body {
   position: relative;
 }
 
+.jumbotron {
+  font-family: Calligraffitti, sans-serif;
+  background-image: url("../trinities.jpg");
+  background-size: cover;
+  .box-shadow(0 3px 10px rgba(0,0,0,0.4));
+
+  a, a:hover, small {
+    color: #fff;
+    text-decoration: none;
+  }
+  small {
+    font-size: 30%;
+  }
+}
+
+
 sidebar {
-  a, a:hover {
-    color: @text-color;
+  ul.nav {
+    background-image: url("../sunflower.png");
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    padding-bottom: 250px;
+    min-width: 200px;
+
+    a, a:hover {
+      color: @text-color;
+    }
+    a:hover {
+      background: none;
+      text-decoration: underline;
+    }
   }
 
   .affix {
@@ -17,7 +45,7 @@ sidebar {
 
   .active {
     font-weight: bold;
-    border-left: 2px solid @brand-primary;
+    border-left: 2px solid @brand-warning;
     margin-left: -2px;
   }
 }
@@ -29,16 +57,6 @@ content h1 {
 footer {
   margin-top: 120px;
   .text-center;
-}
-
-#sunflower {
-  background-image: url("../sunflower.png");
-  background-repeat: no-repeat;
-  width: 200px;
-  height: 249px;
-  position: fixed;
-  bottom: 0;
-  left: 0;
 }
 
 #overview-map {
