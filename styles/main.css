@@ -6167,16 +6167,43 @@ body {
   text-rendering: optimizeLegibility;
   position: relative;
 }
-sidebar h1 a,
-sidebar h1 a:hover {
+.jumbotron {
+  font-family: Calligraffitti, sans-serif;
+  background-image: url("../trinities.jpg");
+  background-size: cover;
+  -webkit-box-shadow: 0 3px 10px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.4);
+}
+.jumbotron a,
+.jumbotron a:hover,
+.jumbotron small {
+  color: #fff;
+  text-decoration: none;
+}
+.jumbotron small {
+  font-size: 30%;
+}
+sidebar ul.nav {
+  background-image: url("../sunflower.png");
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  padding-bottom: 250px;
+  min-width: 200px;
+}
+sidebar ul.nav a,
+sidebar ul.nav a:hover {
   color: #333333;
 }
+sidebar ul.nav a:hover {
+  background: none;
+  text-decoration: underline;
+}
 sidebar .affix {
-  top: 40px;
+  top: 80px;
 }
 sidebar .active {
   font-weight: bold;
-  border-left: 2px solid #428bca;
+  border-left: 2px solid #f0ad4e;
   margin-left: -2px;
 }
 content h1 {
@@ -6187,15 +6214,6 @@ content h1 {
 footer {
   margin-top: 120px;
   text-align: center;
-}
-#sunflower {
-  background-image: url("../sunflower.png");
-  background-repeat: no-repeat;
-  width: 200px;
-  height: 249px;
-  position: fixed;
-  bottom: 0;
-  left: 0;
 }
 #overview-map .land {
   fill: #222;
