@@ -23,19 +23,17 @@ body {
 
 
 sidebar {
-  ul.nav {
-    background-image: url("../sunflower.png");
-    background-repeat: no-repeat;
-    background-position: bottom left;
-    padding-bottom: 250px;
-    min-width: 200px;
-
+  .nav {
     a, a:hover {
       color: @text-color;
     }
     a:hover {
       background: none;
       text-decoration: underline;
+    }
+
+    .nav {
+      display: none;
     }
   }
 
@@ -44,9 +42,19 @@ sidebar {
   }
 
   .active {
-    font-weight: bold;
-    border-left: 2px solid @brand-warning;
-    margin-left: -2px;
+    & > a {
+      font-weight: bold;
+      border-left: 2px solid @brand-warning;
+      margin-left: -2px;
+    }
+    .nav {
+      display: block;
+
+      a {
+        font-size: @font-size-small;
+        padding-left: 40px;
+      }
+    }
   }
 }
 
@@ -59,8 +67,12 @@ footer {
   .text-center;
 }
 
-#overview-map {
-  .land {
-    fill: #222;
-  }
+#sunflower {
+  background-image: url("../sunflower.png");
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 249px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
 }

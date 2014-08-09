@@ -26,24 +26,29 @@ html(lang="en")
         h1
           a(href=locals.url)= locals.name
           | &emsp;
-          small= locals.description
+          small!= locals.description
 
     .container
       .row
         sidebar.col-md-4
           ul.nav(data-spy="affix", data-offset-top="200", data-offset-bottom="200")
             li
-              a(href="#the-wedding") The Wedding
-            li
-              a(href="#about-us") About Us
-            li
               a(href="#the-location") The Location
+              ul.nav
+                li
+                  a(href="#getting-there") Getting There
+                li
+                  a(href="#accommodations") Accommodations
+            li
+              a(href="#the-schedule") The Schedule
         
-        content.col-md-8
+        content.col-md-7
           != typogr(page.html).typogrify()
 
       footer.row
         p &copy; #{ new Date().getFullYear() } #{ locals.owner }
+
+      #sunflower
 
     script(src=contents.scripts["jquery.min.js"].url)
     script(src=contents.scripts["bootstrap.min.js"].url)
