@@ -62,16 +62,10 @@ We are having our big party, a.k.a. the wedding, over Labor Day weekend, and we 
 The weekend's rough schedule will look like this:
 
 - **Friday, September 4th**: 
-  - Sit-down breakfast
-  - Sack lunches
   - Sit-down dinner in the evening, all invited guests are welcome
   - Open mike night after dinner, including a campfire
 - **Saturday, September 5th**:
-  - Sit-down breakfast
-  - Sack lunches
   - Festivities will begin in the late afternoon
-- **Sunday, September 6th**:
-  - Sit-down breakfast
 
 As you can see, we're leaving things open -- we hope you can join us for our celebration and any other adventures that come up throughout the weekend!
 
@@ -85,6 +79,10 @@ As you can see, we're leaving things open -- we hope you can join us for our cel
 </div>
 </div>
 </div>
+
+## Meals
+
+TODO
 
 
 # Things to Do
