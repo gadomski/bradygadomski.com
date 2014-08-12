@@ -30,6 +30,12 @@ The Bar 717 Ranch is located between Hayfork and Hyampom, California, nestled in
 During the summer, the ranch is the site of Camp Trinity, a coeducational summer camp for kids aged eight to seventeen; Kelly and Pete met when they were both counselors at the camp.
 You can find out more about the camp's history [on their website](http://www.bar717.com/history/).
 
+<div class="row" style="margin-top: 40px;">
+<div class="col-md-8 col-md-offset-2">
+<a href="california-map.jpg"><img src="california-map.jpg" class="img-responsive"></a>
+</div>
+</div>
+
 ## Getting There
 
 The Bar 717 Ranch is located about two hours west of Redding, California, and is generally assessable only by private vehicle, no shuttles or buses are available.
