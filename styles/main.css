@@ -6227,3 +6227,13 @@ footer {
   bottom: 0;
   left: 0;
 }
+@media (max-width: 767px) {
+  #sunflower {
+    display: none !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  #sunflower {
+    display: none !important;
+  }
+}
