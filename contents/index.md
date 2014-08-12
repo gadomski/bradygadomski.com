@@ -3,7 +3,7 @@ title: Pete & Kelly
 template: layout.jade
 ---
 
-Kelly Brady and Pete Gadomski are getting married on September 5th, 2015.
+Kelly Brady and Pete Gadomski are getting married on September 12th, 2015.
 The wedding will be at [The Bar 717 Ranch](http://www.bar717.com/) in Trinity County, California.
 We hope that you'll join us for a weekend of celebration and community!
 
