@@ -32,7 +32,7 @@ You can find out more about the camp's history [on their website](http://www.bar
 
 <div class="row" style="margin-top: 40px;">
 <div class="col-md-8 col-md-offset-2">
-<a href="california-map.jpg"><img src="california-map.jpg" class="img-responsive"></a>
+<p><a href="california-map.jpg"><img src="california-map-small.jpg" class="img-responsive"></a></p>
 </div>
 </div>
 
