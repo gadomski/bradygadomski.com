@@ -13,7 +13,7 @@ Please [send us an email](mailto:kp@bradygadomski.com) if you have any questions
 We can't wait to see you in September!
 
 <div class="row" style="margin-top: 40px;">
-<div class="col-md-8 col-md-offset-2">
+<div class="col-xs-8 col-xs-offset-2">
 <div class="thumbnail">
   <img src="bar-717-spring.jpg" class="img-responsive">
   <div class="caption">
@@ -31,7 +31,7 @@ During the summer, the ranch is the site of Camp Trinity, a coeducational summer
 You can find out more about the camp's history [on their website](http://www.bar717.com/history/).
 
 <div class="row" style="margin-top: 40px;">
-<div class="col-md-8 col-md-offset-2">
+<div class="col-xs-8 col-xs-offset-2">
 <p><a href="california-map.jpg"><img src="california-map-small.jpg" class="img-responsive"></a></p>
 </div>
 </div>
@@ -70,7 +70,7 @@ The weekend's rough schedule will look like this:
 As you can see, we're leaving things open -- we hope you can join us for our celebration and any other adventures that come up throughout the weekend!
 
 <div class="row" style="margin-top: 40px;">
-<div class="col-md-6 col-md-offset-3">
+<div class="col-xs-6 col-xs-offset-3">
 <div class="thumbnail">
   <img src="dancing.jpg" class="img-responsive">
   <div class="caption">

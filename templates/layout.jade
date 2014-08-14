@@ -74,9 +74,10 @@ html(lang="en")
           != typogr(page.html).typogrify()
 
       footer.row
-        p &copy; #{ new Date().getFullYear() } #{ locals.owner }
+        content.col-xs-12
+          p &copy; #{ new Date().getFullYear() } #{ locals.owner }
 
-      #sunflower
+      #sunflower.hidden-xs
 
     script(src=contents.scripts["jquery.min.js"].url)
     script(src=contents.scripts["bootstrap.min.js"].url)
