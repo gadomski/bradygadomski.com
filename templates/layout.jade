@@ -1,3 +1,4 @@
+
 doctype html
 html(lang="en")
   head
@@ -21,6 +22,31 @@ html(lang="en")
       <![endif]-->
 
   body(data-spy="scroll", data-target="sidebar")
+    nav.navbar.navbar-default.navbar-fixed-bottom.visible-xs-block(role="navigation")
+      .container-fluid
+        .navbar-header
+          button.navbar-toggle(type="button", data-toggle="collapse", data-target="#navbar-collapse")
+            span.sr-only Toggle navigation
+            span.icon-bar
+            span.icon-bar
+            span.icon-bar
+          a.navbar-brand(href="#") Kelly &amp; Pete
+        #navbar-collapse.collapse.navbar-collapse
+          ul.nav.navbar-nav
+            li.dropdown
+              a.dropdown-toggle(href="#", data-toggle="dropdown") The Location
+                span.caret
+              ul.dropdown-menu(role="menu")
+                li: a(href="#the-location") The Location
+                li: a(href="#getting-there") Getting There
+                li: a(href="#accommodations") Accommodations
+            li.dropdown
+              a.dropdown-toggle(href="#", data-toggle="dropdown") The Schedule
+                span.caret
+              ul.dropdown-menu(role="menu")
+                li: a(href="#the-schedule") The Schedule
+                li: a(href="#meals") Meals
+            li: a(href="#things-to-do") Things to Do
     .jumbotron
       .container
         h1
@@ -30,24 +56,21 @@ html(lang="en")
 
     .container
       .row
-        sidebar.col-md-4
+        sidebar.col-sm-4.hidden-xs
           ul.nav(data-spy="affix", data-offset-top="200", data-offset-bottom="200")
             li
               a(href="#the-location") The Location
               ul.nav
-                li
-                  a(href="#getting-there") Getting There
-                li
-                  a(href="#accommodations") Accommodations
+                li: a(href="#getting-there") Getting There
+                li: a(href="#accommodations") Accommodations
             li
               a(href="#the-schedule") The Schedule
               ul.nav
-                li
-                  a(href="#meals") Meals
-            li
-              a(href="#things-to-do") Things to Do
+                li: a(href="#meals") Meals
+            li: a(href="#things-to-do") Things to Do
         
-        content.col-md-8
+
+        content.col-sm-8
           != typogr(page.html).typogrify()
 
       footer.row
