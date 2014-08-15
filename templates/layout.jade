@@ -51,8 +51,9 @@ html(lang="en")
       .container
         h1
           a(href=locals.url)= locals.name
-          | &emsp;
-          small!= locals.description
+          span.hidden-xs.hidden-sm
+            | &emsp;
+            small!= locals.description
 
     .container
       .row
