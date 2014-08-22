@@ -44,13 +44,14 @@ The Bar 717 website also has some [hand written directions](http://www.bar717.co
 
 If you are looking to fly in from around the country, [Redding](http://www.ci.redding.ca.us/transeng/airports/index.htm) and [Eureka/Arcata](https://plus.google.com/100151413109057686697/about?gl=us&hl=en) are both about two hours from camp.
 [Sacramento](http://www.sacramento.aero/smf/) is only about four hours from camp, and [San Francisco](http://www.flysfo.com/) is the closest large airport.
+[Portland](http://www.portofportland.com/PDX_Home.aspx) is another option.
 
 We want to do our best to help people get to our celebration, so if you are willing to provide a carpool or need a ride, please [email us](mailto:kp@bradygadomski.com)
 
 
 ## Accommodations
 
-In general, life on the Bar 717 Ranch can best be described as "rustic", but we will have a wide variety of lodging options available to our guests, including handicap-accessible rooms.
+In general, life on the Bar 717 Ranch can best be described as "rustic", but we will have a wide variety of lodging options available to our guests, including accessible rooms.
 Many of our guests will also be camping out, which could be a fun and affordable option and a great way to get to experience the beautiful area!
 
 Lodging reservations will begin when official invitations are sent out, and will be made through Pete and Kelly.
@@ -58,13 +59,13 @@ Lodging reservations will begin when official invitations are sent out, and will
 
 # The Schedule
 
-We are having our big party, a.k.a. the wedding, over Labor Day weekend, and we encourage you to set aside some extra time to explore beautiful Northern California.
+We encourage you to set aside some extra time to explore beautiful Northern California.
 The weekend's rough schedule will look like this:
 
-- **Friday, September 4th**: 
+- **Friday, September 11th**: 
   - Sit-down dinner in the evening, all invited guests are welcome
   - Open mike night after dinner, including a campfire
-- **Saturday, September 5th**:
+- **Saturday, September 12th**:
   - Festivities will begin in the late afternoon
 
 As you can see, we're leaving things open -- we hope you can join us for our celebration and any other adventures that come up throughout the weekend!
@@ -82,7 +83,8 @@ As you can see, we're leaving things open -- we hope you can join us for our cel
 
 ## Meals
 
-TODO
+As a part of the wedding, we will be providing meals at the ranch starting with dinner on Friday and running through Sunday morning breakfast.
+There are also restaurants in Hyampom and Hayfork, both of which are about thirty minutes away from the ranch.
 
 
 # Things to Do
@@ -91,6 +93,38 @@ While we don't have a ton of scheduled activities for the weekend, there will be
 We encourage you to get out and explore the area as much as you can!
 We will do our best to connect people who are looking to do similar activities, and will provide detailed information about some of our favorite spots.
 
-Here's a couple of idea to inspire you:
+Here's a couple of ideas to inspire you:
 
+<div class="media">
+<span class="pull-left"><img class="media-object thumbnail" src="river.jpg" alt="The River"></span>
+<div class="media-body">
+  <h4 class="media-heading">The River</h4>
+  <p>
+    A tried and true standby of every counselor on her day off, chilling by the river is a great way to while away the day.
+    Hayfork Creek runs right through the ranch, and the [South Fork of the Trinity](http://en.wikipedia.org/wiki/South_Fork_Trinity_River) is just a short drive away.
+    You can be sure people will be headed to the river every day.
+  </p>
+</div>
+</div>
 
+<div class="media">
+<span class="pull-left"><img class="media-object thumbnail" src="hiking.jpg" alt="Hiking"></span>
+<div class="media-body">
+  <h4 class="media-heading">Hiking</h4>
+  <p>
+    The ranch itself has miles of trails that can keep you occupied for days, or even a whole summer.
+    The nearby [Trinity Alps](http://en.wikipedia.org/wiki/Trinity_Alps) provide wonderful granite terrain for day hikes or multi-day adventures.
+  </p>
+</div>
+</div>
+
+<div class="media">
+<span class="pull-left"><img class="media-object thumbnail" src="ranch.jpg" alt="Goats"></span>
+<div class="media-body">
+  <h4 class="media-heading">Just Relax</h4>
+  <p>
+    And of course, there's going to be plenty of time to kick back, open a beverege, and catch up with friends and family.
+    Maybe a goat, too.
+  </p>
+</div>
+</div>
