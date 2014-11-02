@@ -8,7 +8,7 @@ The wedding will be at [The Bar 717 Ranch](http://www.bar717.com/) in Trinity Co
 We hope that you'll join us for a weekend of celebration and community!
 
 "Formal" invitations will be sent out in 2015.
-Please [send us an email](mailto:kp@bradygadomski.com) if you have any questions before then.
+Please [send us an email](mailto:bradygadomski@gmail.com) if you have any questions before then.
 
 We can't wait to see you in September!
 
@@ -46,15 +46,17 @@ If you are looking to fly in from around the country, [Redding](http://www.ci.re
 [Sacramento](http://www.sacramento.aero/smf/) is only about four hours from camp, and [San Francisco](http://www.flysfo.com/) is the closest large airport.
 [Portland](http://www.portofportland.com/PDX_Home.aspx) is another option.
 
-We want to do our best to help people get to our celebration, so if you are willing to provide a carpool or need a ride, please [email us](mailto:kp@bradygadomski.com)
+We want to do our best to help people get to our celebration, so if you are willing to provide a carpool or need a ride, please [email us](mailto:kp@bradygadomski.com).
 
 
 ## Accommodations
 
 In general, life on the Bar 717 Ranch can best be described as "rustic", but we will have a wide variety of lodging options available to our guests, including accessible rooms.
-Many of our guests will also be camping out, which could be a fun and affordable option and a great way to get to experience the beautiful area!
+The camp's website has [descriptions](http://www.bar717.com/about-us/facilities/) of many available options &mdash; many guests will be staying on sleepting platforms.
+Some guests will also be camping out on the camp property, which could be a fun and affordable option and a great way to get to experience the beautiful area!
 
 Lodging reservations will begin when official invitations are sent out, and will be made through Pete and Kelly.
+
 
 
 # The Schedule
@@ -114,6 +116,16 @@ Here's a couple of ideas to inspire you:
   <p>
     The ranch itself has miles of trails that can keep you occupied for days, or even a whole summer.
     The nearby [Trinity Alps](http://en.wikipedia.org/wiki/Trinity_Alps) provide wonderful granite terrain for day hikes or multi-day adventures.
+  </p>
+</div>
+</div>
+
+<div class="media">
+<span class="pull-left"><img class="media-object thumbnail" src="biking.jpg" alt="Biking"></span>
+<div class="media-body">
+  <h4 class="media-heading">Biking</h4>
+  <p>
+    If you're able to get a bike to the ranch, there's miles of forest service roads, trails, and paved roads for you to explore.
   </p>
 </div>
 </div>
