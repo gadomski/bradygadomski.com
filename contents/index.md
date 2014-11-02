@@ -140,3 +140,8 @@ Here's a couple of ideas to inspire you:
   </p>
 </div>
 </div>
+
+
+# We can't wait!
+
+We are looking forward to seeing all of you in September 2015 for our big party!
