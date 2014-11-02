@@ -46,7 +46,7 @@ If you are looking to fly in from around the country, [Redding](http://www.ci.re
 [Sacramento](http://www.sacramento.aero/smf/) is only about four hours from camp, and [San Francisco](http://www.flysfo.com/) is the closest large airport.
 [Portland](http://www.portofportland.com/PDX_Home.aspx) is another option.
 
-We want to do our best to help people get to our celebration, so if you are willing to provide a carpool or need a ride, please [email us](mailto:kp@bradygadomski.com).
+We want to do our best to help people get to our celebration, so if you are willing to provide a carpool or need a ride, please [email us](mailto:bradygadomski@gmail.com).
 
 
 ## Accommodations
