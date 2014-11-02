@@ -66,7 +66,7 @@ The weekend's rough schedule will look like this:
 
 - **Friday, September 11th**: 
   - Sit-down dinner in the evening, all invited guests are welcome
-  - Open mike night after dinner, including a campfire
+  - Open mic night after dinner, including a campfire
 - **Saturday, September 12th**:
   - Festivities will begin in the late afternoon
 
