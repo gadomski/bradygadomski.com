@@ -52,7 +52,7 @@ We want to do our best to help people get to our celebration, so if you are will
 ## Accommodations
 
 In general, life on the Bar 717 Ranch can best be described as "rustic", but we will have a wide variety of lodging options available to our guests, including accessible rooms.
-The camp's website has [descriptions](http://www.bar717.com/about-us/facilities/) of many available options &mdash; many guests will be staying on sleepting platforms.
+The camp's website has [descriptions](http://www.bar717.com/about-us/facilities/) of many available options &mdash; many guests will be staying on sleeping platforms.
 Some guests will also be camping out on the camp property, which could be a fun and affordable option and a great way to get to experience the beautiful area!
 
 Lodging reservations will begin when official invitations are sent out, and will be made through Pete and Kelly.
