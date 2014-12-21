@@ -135,7 +135,7 @@ Here's a couple of ideas to inspire you:
 <div class="media-body">
   <h4 class="media-heading">Just Relax</h4>
   <p>
-    And of course, there's going to be plenty of time to kick back, open a beverege, and catch up with friends and family.
+    And of course, there's going to be plenty of time to kick back, open a beverage, and catch up with friends and family.
     Maybe a goat, too.
   </p>
 </div>
