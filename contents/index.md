@@ -1,6 +1,6 @@
 ---
 title: Pete & Kelly
-template: layout.jade
+template: index.jade
 ---
 
 Kelly Brady and Pete Gadomski are getting married on September 12th, 2015.
