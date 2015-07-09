@@ -1,1 +1,5 @@
 extends ./layout.jade
+
+block content
+  content.col-xs-10.col-xs-offset-1
+    != typogr(page.html).typogrify()
