@@ -3,12 +3,12 @@ title: Pete & Kelly
 template: index.jade
 ---
 
-Kelly Brady and Pete Gadomski are getting married on September 12th, 2015.
-The wedding will be at [The Bar 717 Ranch](http://www.bar717.com/) in Trinity County, California.
-We hope that you'll join us for a weekend of celebration and community!
+Kelly Brady and Pete Gadomski are celebrating their marriage on September 12th, 2015.
+The celebration will be at [The Bar 717 Ranch](http://www.bar717.com/) in Trinity County, California.
+We hope that you'll join us for a weekend of fun and community!
 
-"Formal" invitations will be sent out in 2015.
-Please [send us an email](mailto:bradygadomski@gmail.com) if you have any questions before then.
+"Formal" invitations have been sent out.
+Please [send us an email](mailto:bradygadomski@gmail.com) if you have any questions.
 
 We can't wait to see you in September!
 
@@ -48,6 +48,11 @@ If you are looking to fly in from around the country, [Redding](http://www.ci.re
 
 We want to do our best to help people get to our celebration, so if you are willing to provide a carpool or need a ride, please [email us](mailto:bradygadomski@gmail.com).
 
+### Rental cars in Redding
+
+If you're looking to rent a car in Redding, CA, unfortunately you usually can't rent a car after 3pm in Redding, which is after the flights get in.
+If this is going to cause you problems, contact us and we can help sort something out to make sure you can make it to the celebration!
+
 
 ## Accommodations
 
@@ -64,7 +69,7 @@ Lodging reservations will begin when official invitations are sent out, and will
 We encourage you to set aside some extra time to explore beautiful Northern California.
 The weekend's rough schedule will look like this:
 
-- **Friday, September 11th**: 
+- **Friday, September 11th**:
   - Sit-down dinner in the evening, all invited guests are welcome
   - Open mic night after dinner, including a campfire
 - **Saturday, September 12th**:
@@ -85,7 +90,7 @@ As you can see, we're leaving things open -- we hope you can join us for our cel
 
 ## Meals
 
-As a part of the wedding, we will be providing meals at the ranch starting with dinner on Friday and running through Sunday morning breakfast.
+As a part of the weekend, we will be providing meals at the ranch starting with dinner on Friday and running through Sunday morning breakfast.
 There are also restaurants in Hyampom and Hayfork, both of which are about thirty minutes away from the ranch.
 
 
