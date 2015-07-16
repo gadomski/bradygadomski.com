@@ -48,10 +48,20 @@ If you are looking to fly in from around the country, [Redding](http://www.ci.re
 
 We want to do our best to help people get to our celebration, so if you are willing to provide a carpool or need a ride, please [email us](mailto:bradygadomski@gmail.com).
 
-### Rental cars in Redding
+<div class="alert alert-info">
+The roads to camp are windy and mountainous, and have been known to cause trouble even for seasoned car travellers.
+If you are prone to carsickness, you may want to pack some Dramamine just in case.
+</div>
 
+<div class="alert alert-info">
+There may be some construction on the 299 between Redding and camp.
+If you're coming up on I-5 from the south, you might consider taking CA-36W from Red Bluff — Google Maps can get you there.
+</div>
+
+<div class="alert alert-info">
 If you're looking to rent a car in Redding, CA, unfortunately you usually can't rent a car after 3pm in Redding, which is after the flights get in.
 If this is going to cause you problems, contact us and we can help sort something out to make sure you can make it to the celebration!
+</div>
 
 
 ## Accommodations
@@ -123,7 +133,7 @@ The ranch is a completely outdoor setting, with uneven surfaces including grass 
 Attire for the ceremony and celebration will be "ranch classy", known by others as "farm fancy."
 
 <div class="row" style="margin-top: 40px;">
-<div class="col-xs-6 col-xs-offset-3">
+<div class="col-xs-8 col-xs-offset-2">
 <div class="thumbnail">
   <img src="farm-fancy.jpg" class="img-responsive">
   <div class="caption">
@@ -140,7 +150,7 @@ Have fun, and be comfortable.
 
 # Things to Do
 
-While we don't have a ton of scheduled activities for the weekend, there will be plenty going on at the ranch and in the surrounding area.
+While we don't have a ton of scheduled activities for the weekend, there will be plenty going on at the ranch and in the surrounding area, especially on Saturday.
 We encourage you to get out and explore the area as much as you can!
 We will do our best to connect people who are looking to do similar activities, and will provide detailed information about some of our favorite spots.
 

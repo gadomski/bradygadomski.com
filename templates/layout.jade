@@ -33,7 +33,7 @@ body(data-spy="scroll", data-target="sidebar")
 
   .container
 
-    ul.nav.nav-tabs(style="margin-bottom: 40px;")
+    ul.nav.nav-tabs
       li(role="presentation", class=page.url === "/" ? "active" : "")
         a(href="/") Details
       li(role="presentation", class=page.url === "/rsvp/" ? "active" : "")
@@ -43,6 +43,9 @@ body(data-spy="scroll", data-target="sidebar")
 
     block content
     #sunflower.hidden-xs
+
+  footer
+    a(href="mailto:bradygadomski@gmail.com") bradygadomski@gmail.com
 
   script(src=contents.scripts["jquery.min.js"].url)
   script(src=contents.scripts["bootstrap.min.js"].url)
