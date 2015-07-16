@@ -70,16 +70,20 @@ If you have any questions or issues with the housing, please don't hesitate to c
 
 # The Schedule
 
-We encourage you to set aside some extra time to explore beautiful Northern California.
-The weekend's rough schedule will look like this:
+- Friday, September 11th
+    - **All day**: guests arrive
+    - **7pm**: dinner, first meal for all guests
+    - **8pm - late**: open mic night, campfire, etc.
+- Saturday, September 12th
+    - **All day**: guests arrive
+    - **8am - 10am**: breakfast
+    - **10am - 11am**: sack lunch prep
+    - **10am - 5pm**: time to adventure and relax
+    - **5pm**: cocktail hour
+    - **6pm - late**: ceremony, dinner, party, etc.
+- Sunday, September 13th
+    - **8am - 10am**: breakfast
 
-- **Friday, September 11th**:
-  - Sit-down dinner in the evening, all invited guests are welcome
-  - Open mic night after dinner, including a campfire
-- **Saturday, September 12th**:
-  - Festivities will begin in the late afternoon
-
-As you can see, we're leaving things open -- we hope you can join us for our celebration and any other adventures that come up throughout the weekend!
 
 <div class="row" style="margin-top: 40px;">
 <div class="col-xs-6 col-xs-offset-3">
@@ -95,7 +99,43 @@ As you can see, we're leaving things open -- we hope you can join us for our cel
 ## Meals
 
 As a part of the weekend, we will be providing meals at the ranch starting with dinner on Friday and running through Sunday morning breakfast.
-There are also restaurants in Hyampom and Hayfork, both of which are about thirty minutes away from the ranch.
+We will be providing vegetarian options, and will do our best to accommodate special dietary requirements.
+There are also limited restaurants in Hyampom and Hayfork, both of which are about thirty minutes away from the ranch.
+
+# Packing list
+
+- Sleeping bag
+- Pillow
+- Toiletries
+- Sunscreen
+- Hat
+- Sunglasses
+- **Flashlight/headlamp** (there is no lighting on platforms)
+- Sturdy shoes (tennis shoes, running shoes are ok)
+- A warm layer for the evenings
+- Swimsuit
+- Party clothes
+
+The ranch is a completely outdoor setting, with uneven surfaces including grass and gravel, so please pack appropriate shoe attire.
+
+## Ranch classy
+
+Attire for the ceremony and celebration will be "ranch classy", known by others as "farm fancy."
+
+<div class="row" style="margin-top: 40px;">
+<div class="col-xs-6 col-xs-offset-3">
+<div class="thumbnail">
+  <img src="farm-fancy.jpg" class="img-responsive">
+  <div class="caption">
+    <p>These guys are doing it right.</p>
+  </div>
+</div>
+</div>
+</div>
+
+You know us.
+We're not requiring a specific dress code.
+Have fun, and be comfortable.
 
 
 # Things to Do

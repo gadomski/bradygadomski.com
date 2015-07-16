@@ -25,6 +25,11 @@ block nav
             ul.dropdown-menu(role="menu")
               li: a(href="#the-schedule") The Schedule
               li: a(href="#meals") Meals
+          li.dropdown
+            a.dropdown-toggle(href="#", data-toggle="dropdown") Packing list
+              span.caret
+            ul.dropdown-menu(role="menu")
+              li: a(href="#ranch-classy") Ranch classy
           li: a(href="#things-to-do") Things to Do
 
 block content
@@ -40,8 +45,12 @@ block content
           a(href="#the-schedule") The Schedule
           ul.nav
             li: a(href="#meals") Meals
+        li
+          a(href="#packing-list") Packing list
+          ul.nav
+            li: a(href="#ranch-classy") Ranch classy
         li: a(href="#things-to-do") Things to Do
-    
+
 
     content.col-sm-8.col-xs-12
       != typogr(page.html).typogrify()
