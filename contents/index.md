@@ -56,12 +56,16 @@ If this is going to cause you problems, contact us and we can help sort somethin
 
 ## Accommodations
 
-In general, life on the Bar 717 Ranch can best be described as "rustic", but we will have a wide variety of lodging options available to our guests, including accessible rooms.
-The camp's website has [descriptions](http://www.bar717.com/about-us/facilities/) of many available options &mdash; many guests will be staying on sleeping platforms.
-Some guests will also be camping out on the camp property, which could be a fun and affordable option and a great way to get to experience the beautiful area!
+All guests will be staying on platforms unless otherwise arranged by Kelly and Pete.
+Here's the description of platforms from the camp website:
 
-Lodging reservations will begin when official invitations are sent out, and will be made through Pete and Kelly.
+> On the Ranch we have more then 20 Platforms.  These sleeping structures are our own invention, perfectly adapted to our summer climate of warm, dry days and cool nights.  A Platform is a cabin-like structure with 3 walls and a roof, open on 1 side to views of the pasture or forest.  Platforms are grouped into living areas, each no more than a few minutes walk from the main camp area.  Each platform sleeps from 6 to 15 people and has a sink and bathroom.  Shower houses are short walk away.
 
+We are asking that guests bring a sleeping bag or other bedding for the weekend.
+Temperatures this time of year usually range from the 80s to 90s during the day to the 40s and 50s at night ([see historical records and averages](http://www.wunderground.com/history/airport/KO54/2015/9/16/MonthlyCalendar.html?req_city=Hyampom&req_state=CA&req_statename=&reqdb.zip=96046&reqdb.magic=1&reqdb.wmo=99999)).
+See [our packing list](#packing-list) for a more complete list of things you will need for the weekend.
+
+If you have any questions or issues with the housing, please don't hesitate to contact us.
 
 
 # The Schedule
