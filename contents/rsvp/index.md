@@ -1,9 +1,7 @@
 ---
 title: RSVP
-template: rsvp.jade
+template: basic.jade
 ---
-
-## RSVP
 
 Please see [our details page](/) for information about food, lodging, and the like.
 

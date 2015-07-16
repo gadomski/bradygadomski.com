@@ -71,6 +71,17 @@ Here's the description of platforms from the camp website:
 
 > On the Ranch we have more then 20 Platforms.  These sleeping structures are our own invention, perfectly adapted to our summer climate of warm, dry days and cool nights.  A Platform is a cabin-like structure with 3 walls and a roof, open on 1 side to views of the pasture or forest.  Platforms are grouped into living areas, each no more than a few minutes walk from the main camp area.  Each platform sleeps from 6 to 15 people and has a sink and bathroom.  Shower houses are short walk away.
 
+<div class="row" style="margin-top: 40px;">
+<div class="col-xs-8 col-xs-offset-2">
+<div class="thumbnail">
+  <img src="platform.jpg" class="img-responsive">
+  <div class="caption">
+    <p>A platform, during camp.</p>
+  </div>
+</div>
+</div>
+</div>
+
 We are asking that guests bring a sleeping bag or other bedding for the weekend.
 Temperatures this time of year usually range from the 80s to 90s during the day to the 40s and 50s at night ([see historical records and averages](http://www.wunderground.com/history/airport/KO54/2015/9/16/MonthlyCalendar.html?req_city=Hyampom&req_state=CA&req_statename=&reqdb.zip=96046&reqdb.magic=1&reqdb.wmo=99999)).
 See [our packing list](#packing-list) for a more complete list of things you will need for the weekend.
@@ -114,9 +125,9 @@ There are also limited restaurants in Hyampom and Hayfork, both of which are abo
 
 # Packing list
 
-- Sleeping bag
+- **Sleeping bag**
 - Pillow
-- Toiletries
+- Toiletries (including soap and shampoo)
 - Sunscreen
 - Hat
 - Sunglasses
@@ -124,9 +135,13 @@ There are also limited restaurants in Hyampom and Hayfork, both of which are abo
 - Sturdy shoes (tennis shoes, running shoes are ok)
 - A warm layer for the evenings
 - Swimsuit
+- Towel (for swimming and bathing)
 - Party clothes
+- ...any other stuff as you see fit
 
-The ranch is a completely outdoor setting, with uneven surfaces including grass and gravel, so please pack appropriate shoe attire.
+The ranch is a completely outdoor setting, with uneven surfaces including grass and gravel, so make sure to pack appropriate shoe attire.
+
+There will be hiking and other adventures happening throughout the weekend, so bring any gear that you'd like to have to get outside and play!
 
 ## Ranch classy
 
