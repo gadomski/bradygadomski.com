@@ -145,7 +145,7 @@ Attire for the ceremony and celebration will be "ranch classy", known by others 
 
 You know us.
 We're not requiring a specific dress code.
-Have fun, and be comfortable.
+Have fun, be comfortable.
 
 
 # Things to Do
