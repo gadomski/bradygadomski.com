@@ -6183,6 +6183,9 @@ body {
 .jumbotron small {
   font-size: 30%;
 }
+.nav-tabs {
+  margin-bottom: 40px;
+}
 sidebar .nav a,
 sidebar .nav a:hover {
   color: #333333;
@@ -6216,6 +6219,7 @@ content h1 {
 }
 footer {
   margin-top: 120px;
+  margin-bottom: 60px;
   text-align: center;
 }
 #sunflower {
