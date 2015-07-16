@@ -27,4 +27,9 @@ Please [email us](mailto:bradygadomski@gmail.com) if you are concerned and need 
 We will have a wide variety of food available throughout the weekend, including vegetarian options.
 If you are concerned about dietary needs, please [contact us](mailto:bradygadomski@gmail.com).
 
-<iframe src="https://docs.google.com/forms/d/1FU8epKr1IAZxOGL8pdlyrlWx8NZYcOmli9BtZLQZr0k/viewform?embedded=true" width="760" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/1FU8epKr1IAZxOGL8pdlyrlWx8NZYcOmli9BtZLQZr0k/viewform?embedded=true" width="760" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+
+## Lodging details
+
+
