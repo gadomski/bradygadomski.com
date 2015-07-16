@@ -9,3 +9,6 @@ We are registered at:
 - [Amazon](http://www.amazon.com/registry/wedding/DOKJ7ZCH2RBK)
 
 In lieu of a gift, we encourage donations to the [Bar 717 campership fund](http://www.bar717.com/about-us/campership/), a program that helps campers from all backgrounds attend camp.
+We believe this is an important and unique opportunity for kids who are less fortunate.
+
+Thank you!
