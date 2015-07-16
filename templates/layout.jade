@@ -34,11 +34,11 @@ body(data-spy="scroll", data-target="sidebar")
   .container
 
     ul.nav.nav-tabs(style="margin-bottom: 40px;")
-      li(role="presentation").active
+      li(role="presentation", class=page.url === "/" ? "active" : "")
         a(href="/") Details
-      li(role="presentation")
+      li(role="presentation", class=page.url === "/rsvp/" ? "active" : "")
         a(href="/rsvp") RSVP
-      li(role="presentation")
+      li(role="presentation", class=page.url === "/registry/" ? "active" : "")
         a(href="/registry") Registry
 
     block content
