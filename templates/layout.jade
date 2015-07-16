@@ -23,6 +23,17 @@ html(lang="en")
 
 body(data-spy="scroll", data-target="sidebar")
   block nav
+  nav.navbar.navbar-default.navbar-fixed-top
+    .container
+      .navbar-header
+        a.navbar-brand
+          | Kelly and Pete
+      .navbar-collapse.collapse
+        ul.nav.navbar-nav.navbar-right
+          li
+            a(href="/") Details
+          li
+            a(href="/rsvp") RSVP
   .jumbotron
     .container
       h1
