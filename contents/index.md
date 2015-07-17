@@ -137,6 +137,7 @@ There are also limited restaurants in Hyampom and Hayfork, both of which are abo
 - Swimsuit
 - Towel (for swimming and bathing)
 - Party clothes
+- Musical instruments, if you'd like!
 - ...any other stuff as you see fit
 
 The ranch is a completely outdoor setting, with uneven surfaces including grass and gravel, so make sure to pack appropriate shoe attire.
