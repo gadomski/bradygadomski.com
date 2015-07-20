@@ -93,6 +93,12 @@ See [our packing list](#packing-list) for a more complete list of things you wil
 
 If you have any questions or issues with the housing, please don't hesitate to contact us.
 
+<div class="alert alert-warning">
+There are many ranch animals who live on the property year round.
+In consideration for them, we ask that you leave your pets at home.
+</div>
+
+
 
 # The Schedule
 
