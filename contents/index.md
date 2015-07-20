@@ -63,6 +63,11 @@ If you're looking to rent a car in Redding, CA, unfortunately you usually can't 
 If this is going to cause you problems, contact us and we can help sort something out to make sure you can make it to the celebration!
 </div>
 
+<div class="alert alert-info">
+There is no cell phone service at camp.
+Verizon customers will have service in Hayfork.
+</div>
+
 
 ## Accommodations
 
