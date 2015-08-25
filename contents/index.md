@@ -3,25 +3,50 @@ title: Pete & Kelly
 template: index.jade
 ---
 
-Kelly Brady and Pete Gadomski are celebrating their marriage on September 12th, 2015.
-The celebration will be at [The Bar 717 Ranch](http://www.bar717.com/) in Trinity County, California.
-We hope that you'll join us for a weekend of fun and community!
+<div class="alert alert-danger">
+Due to fires near the Bar 717 Ranch, <strong>we have changed the location of our celebration to Mount Shasta, California.
+The dates have not changed.</strong>
+Please read this site carefully for details.
+</div>
 
-"Formal" invitations have been sent out.
-Please [send us an email](mailto:bradygadomski@gmail.com) if you have any questions.
+
+Kelly Brady and Pete Gadomski are celebrating their marriage on September 12th, 2015.
+The celebration will be in [Mount Shasta, California](https://goo.gl/maps/uvJJO).
+We hope that you'll join us for a weekend of fun and community!
 
 We can't wait to see you in September!
 
 <div class="row" style="margin-top: 40px;">
 <div class="col-xs-8 col-xs-offset-2">
 <div class="thumbnail">
-  <img src="bar-717-spring.jpg" class="img-responsive">
+  <img src="mount-shasta.jpg" class="img-responsive">
   <div class="caption">
-    <p>The Bar 717 Ranch in the Spring.</p>
+    <p>Mount Shasta, a fourteen-thousand foot mountain near the town of Mount Shasta, California.</p>
   </div>
 </div>
 </div>
 </div>
+
+
+# If You Are Attending...
+
+If you haven't emailed us since August 25th, 2015, please email us at <bradygadomski@gmail.com> to confirm that you are aware of the change in location from the Bar 717 to Mount Shasta.
+In your email, please include:
+
+- Your plans for lodging
+- If you are camping, do you need any camping equipment?
+- Any additional guests that you are “responding for”
+- Any concerns or questions that you have
+
+We insist upon this so we can be sure that no guests will show up at the Bar 717.
+Thank you for understanding and your flexibility.
+
+
+# The Change Email
+
+Quoted below is the complete text of the email that we sent out to all guests on *date here*, providing information about our change of venue.
+It is included here for completeness.
+
 
 
 # The Location
