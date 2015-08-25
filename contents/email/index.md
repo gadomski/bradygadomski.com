@@ -60,7 +60,6 @@ arranged two options.</span></p>
 <li class="c1 c7"><span>We do not have a single &ldquo;wedding
 hotel&rdquo;, but we have checked into rooms at the following
 locations:</span></li>
-</ul>
 <ul class="c4 lst-kix_r1izf1qngwbe-1 start">
 <li class="c1 c9"><span>Mt. Shasta Resort: chalets available.
 http://mountshastaresort.com/ or call:
@@ -80,6 +79,7 @@ http://book.bestwestern.com/bestwestern/US/CA/Mount-Shasta-hotels/BEST-WESTERN-P
 530-926-3446</span></li>
 <li class="c1 c9"><span>More options at:
 &nbsp;http://visitmtshasta.com/lodging/</span></li>
+</ul>
 </ul>
 <ul class="c4 lst-kix_r1izf1qngwbe-0">
 <li class="c1 c7"><span>We have reserved a group campground at Lake

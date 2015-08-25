@@ -12,6 +12,7 @@ block nav
         a.navbar-brand(href="#") Kelly &amp; Pete
       #navbar-collapse.collapse.navbar-collapse
         ul.nav.navbar-nav
+          li: a(href="#if-you-are-attending-") If You Are Attending...
           li.dropdown
             a.dropdown-toggle(href="#", data-toggle="dropdown") The Location
               span.caret
@@ -24,18 +25,14 @@ block nav
               span.caret
             ul.dropdown-menu(role="menu")
               li: a(href="#the-schedule") The Schedule
-              li: a(href="#meals") Meals
-          li.dropdown
-            a.dropdown-toggle(href="#", data-toggle="dropdown") Packing list
-              span.caret
-            ul.dropdown-menu(role="menu")
-              li: a(href="#ranch-classy") Ranch classy
-          li: a(href="#things-to-do") Things to Do
+              li: a(href="#important-addresses") Important Addresses
+              li: a(href="#ranch-classy") Ranch Classy
 
 block content
   .row
     sidebar.col-sm-4.hidden-xs
       ul.nav(data-spy="affix", data-offset-top="300", data-offset-bottom="200")
+        li: a(href="#if-you-are-attending-") If You Are Attending...
         li
           a(href="#the-location") The Location
           ul.nav
@@ -44,12 +41,8 @@ block content
         li
           a(href="#the-schedule") The Schedule
           ul.nav
-            li: a(href="#meals") Meals
-        li
-          a(href="#packing-list") Packing list
-          ul.nav
-            li: a(href="#ranch-classy") Ranch classy
-        li: a(href="#things-to-do") Things to Do
+            li: a(href="#meals") Important Addresses
+            li: a(href="#meals") Ranch Classy
 
 
     content.col-sm-8.col-xs-12
