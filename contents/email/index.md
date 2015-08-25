@@ -97,8 +97,7 @@ email). &nbsp;</span></p>
 "h.s7t4iah6fte9"></a><span>Revised schedule</span></h2>
 <p class="c1"><span>Friday:</span></p>
 <ul class="c4 lst-kix_fzdwstlhw7c3-0 start">
-<li class="c1 c7"><span>6pm: dinner in Mt. Shasta, location TBD
-(will be posted on the website and sent out in an email). All
+<li class="c1 c7"><span>6pm: dinner at the Mount Shasta Dance Hall. All
 guests are welcome.</span></li>
 <li class="c1 c7"><span>8pm - late: Hangout at the group campsite
 with kegs, open mic, campfire, and other sundry.</span></li>
