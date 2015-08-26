@@ -84,7 +84,7 @@ Guests have a few options for lodging in Mount Shasta:
   - Best Western Plus Tree House:  hotel rooms and suites. Call: 530-926-3101 or 800-780-7234 or http://book.bestwestern.com/bestwestern/US/CA/Mount-Shasta-hotels/BEST-WESTERN-PLUS-Tree-House/Hotel-Overview.do?p
   - Swiss Holiday Lodge: hotel rooms. Call: 530-926-3446
   - More options at:  http://visitmtshasta.com/lodging/
-- Camp! We have reserved a group campground at Lake Siskiyou for those who would like to camp. Charge is $5.00, payable weekend of the celebration.
+- Camp! We have reserved group campground G1 at Lake Siskiyou for those who would like to camp. Charge is $5.00, payable weekend of the celebration.
 
 
 # The Schedule
