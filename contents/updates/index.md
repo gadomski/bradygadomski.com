@@ -6,6 +6,14 @@ template: basic.jade
 We'll try to post some updates here as planning progresses.
 Can't wait to see you in September!
 
+# August 27, 2015
+
+I added a note about the cost to camp at Lake Siskiyou.
+It is $5 per person plus $5 per car, plus tax.
+
+&mdash; Pete
+
+
 # August 25, 2015
 
 Due to ongoing fires at and around the Bar 717, we have been forced to change the location of our wedding celebration to Mount Shasta, California.
