@@ -2,7 +2,7 @@
     "locals": {
         "url": "http://bradygadomski.com",
         "name": "Kelly & Pete",
-        "description": "September 12th, 2015 &mdash; Mount Shasta, California",
+        "description": "September 12th, 2015 &mdash; <del>Trinity County</del> Mount Shasta, California",
         "owner": "Pete Gadomski"
     },
     "plugins": [
