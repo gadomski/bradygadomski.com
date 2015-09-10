@@ -36,16 +36,8 @@ body(data-spy="scroll", data-target="sidebar")
     ul.nav.nav-tabs
       li(role="presentation", class=page.url === "/" ? "active" : "")
         a(href="/") Details
-      li(role="presentation", class=page.url === "/rsvp/" ? "active" : "")
-        a(href="/rsvp") RSVP
       li(role="presentation", class=page.url === "/registry/" ? "active" : "")
         a(href="/registry") Registry
-      li(role="presentation", class=page.url === "/email/" ? "active" : "")
-        a(href="/email") The Email
-      li(role="presentation", class=page.url === "/camp/" ? "active" : "")
-        a(href="/camp") Camp
-      li(role="presentation", class=page.url === "/updates/" ? "active" : "")
-        a(href="/updates") Updates
 
     block content
     #sunflower.hidden-xs
