@@ -50,6 +50,15 @@ Kelly and Pete
 
 ## Locations
 
+
+<div class="row" style="margin-top: 40px;">
+<div class="col-xs-8 col-xs-offset-2">
+<div class="thumbnail">
+  <img src="mapimage.jpeg" class="img-responsive">
+</div>
+</div>
+</div>
+
 ### Mount Shasta City Park  
 <address>
 1315 Nixon Rd, Mt Shasta, CA 96067
